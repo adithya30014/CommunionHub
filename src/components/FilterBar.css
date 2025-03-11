@@ -1,0 +1,12 @@
+.filter-bar {
+    padding: 10px;
+    margin: 20px auto;
+    max-width: 200px;
+}
+
+.filter-bar select {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
